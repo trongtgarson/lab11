@@ -1,0 +1,32 @@
+Script started on Mon 03 Dec 2018 04:23:51 PM EST
+ktua20258@astro:~/lab11\[Mon Dec 03 16:23:52 [0;31mtua20258@astro[0m:~/lab11 ] $cc lab11.c include/lab[K[K[Karray_stack.c 
+ktua20258@astro:~/lab11\[Mon Dec 03 16:24:00 [0;31mtua20258@astro[0m:~/lab11 ] $./a.out 
+ARRAY STACK EXERCISER BATCH PROGRAM
+
+Program written by Trong Garson.
+Program compiled on Dec  3 2018 at 16:24:00
+
+Starting with an empty stack
+Reading data from file "stack_test.txt"
+
+* the stack is empty *
+pushed 5 on to the stack
+pushed 9 on to the stack
+pushed 12 on to the stack
+12 9 5 
+popped 12 from the stack
+popped 9 from the stack
+5 
+pushed 4 on to the stack
+4 5 
+pushed 8 on to the stack
+8 4 5 
+popped 8 from the stack
+4 5 
+popped 4 from the stack
+popped 5 from the stack
+* the stack is empty *
+ktua20258@astro:~/lab11\[Mon Dec 03 16:24:04 [0;31mtua20258@astro[0m:~/lab11 ] $exit
+exit
+
+Script done on Mon 03 Dec 2018 04:24:07 PM EST
